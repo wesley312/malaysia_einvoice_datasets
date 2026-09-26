@@ -1,0 +1,31 @@
+Brand,Industry,Portal,Platform,Individual Buyer,Business Buyer,From QR Only,Remark,Last Validated
+% Arabica,F&B,,,true,true,true,,2026-09-26T00:00:00Z
+99 Speedmart,Retail,https://99einvoice.com/,RGTech,true,true,false,,2026-09-26T00:00:00Z
+Aeon,Retail,https://e-invoice.aeonsolutionscenter.com/iframes/e-invoice-external-requests/create?type=amy,,true,true,false,,2026-09-26T00:00:00Z
+Billion,Retail,https://billiongroup.invoice2e.my/documents/create,invoice2e,true,true,false,,2026-09-26T00:00:00Z
+Daily Fresh,F&B,,GO E-Invoice,true,true,true,,2026-09-26T00:00:00Z
+Econsave,Retail,https://einvoice.econsave.com.my/,,true,true,false,,2026-09-26T00:00:00Z
+FamilyMart,Retail,https://fmeinvoice.ql.com.my/,Axrail,true,true,false,,2026-09-26T00:00:00Z
+Giant,Retail,https://myinvoice.biz-edoc.com/#/einv?cc=GCH001,Panda E-Invoice,true,true,false,,2026-09-26T00:00:00Z
+Guardian,Retail,https://uatinvoice.rta-os.com/,,true,true,false,,2026-09-26T00:00:00Z
+Guardian,Retail,https://www.guardianeinvoice.com.my/,,true,true,false,,2026-09-26T00:00:00Z
+Hero Market,Retail,https://myinvoice.biz-edoc.com/#/einv/?cc=HERO001,,true,true,false,,2026-09-26T00:00:00Z
+Ikea,Retail,https://accounts.my.cleartax.com/v2?product=myinvoice&&return_path=Lz90aW49UXpJME1EVXpNamc0TURBdw==,ClearTax,true,true,false,Must have account,2026-09-26T00:00:00Z
+JayaGrocer,Retail,https://jayagrocer.invoice2e.my/documents/create,invoice2e,true,true,false,,2026-09-26T00:00:00Z
+Joymom's,Retail,,Smart E-Invoice Platform,true,true,true,,2026-09-26T00:00:00Z
+Lotus's,Retail,https://myinvoice.lotuss.com.my/en/invoice/request,,true,true,false,,2026-09-26T00:00:00Z
+Marrybrown,F&B,https://marrybrown.einvoiceportal.my/invoice,Xilnex,true,true,false,,2026-09-26T00:00:00Z
+MR.DIY,Retail,https://mrdiy.com.my/pages/einvoice-individual,,true,false,false,For online purchase only,2026-09-26T00:00:00Z
+MR.DIY,Retail,https://mrdiy.com.my/pages/einvoice-company,,false,true,false,For online purchase only,2026-09-26T00:00:00Z
+MR.DIY,Retail,,,true,true,true,Offline purchase,2026-09-26T00:00:00Z
+Mydin,Retail,https://einvoice.mydin.my/invoice,Xilnex,true,true,false,Need to include site number in front of invoice number,2026-09-26T00:00:00Z
+Oriental Kopi,F&B,,Zeoniq,true,true,true,,2026-09-26T00:00:00Z
+Pasaraya LYC,Retail,https://lyc.invoice2e.my/documents/create,invoice2e,true,true,false,,2026-09-26T00:00:00Z
+Popular,Retail,https://einvoice.popular.com.my/popular/HQ,,true,true,false,,2026-09-26T00:00:00Z
+POS Malaysia,Utility,https://accounts.my.cleartax.com/v2?product=myinvoice&&return_path=Lz90aW49UXpRNE9UWXdNREF3TkRBJTNE,ClearTax,true,true,false,Must have account,2026-09-26T00:00:00Z
+San Shu Gong,F&B,,Autocount,true,true,true,,2026-09-26T00:00:00Z
+The Coffee Bean & Tea Leaf,F&B,https://coffeebean.einvoiceportal.my/invoice,Xilnex,true,true,false,,2026-09-26T00:00:00Z
+TMT Thundermatch,Retail,https://loyalty.tmt.my/page/E-Invoice,,true,true,false,,2026-09-26T00:00:00Z
+Unifi Store,Retail,https://e-invoice.tm.com.my/indv/index.html,,true,false,false,Goods only,2026-09-26T00:00:00Z
+Unifi Store,Retail,https://e-invoice.tm.com.my/comp/index.html,,false,true,false,Goods only,2026-09-26T00:00:00Z
+Watsons,Retail,https://e-invoice.watsons.com.my/,AgoraCloud E-Invoice,true,true,false,,2026-09-26T00:00:00Z

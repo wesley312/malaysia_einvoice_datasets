@@ -1,0 +1,34 @@
+{
+  "@context": ["http://www.w3.org/ns/csvw", { "@language": "en" }],
+  "url": "einvoice_platform.csv",
+  "tableSchema": {
+    "columns": [
+      {
+        "name": "platform",
+        "titles": "Platform",
+        "dc:description": "Platform, system, or service provider handling the portal",
+        "datatype": "string",
+        "required": true
+      },
+      {
+        "name": "link",
+        "titles": "Link",
+        "dc:description": "Website of the platform",
+        "datatype": "anyURI"
+      },
+      {
+        "name": "company",
+        "titles": "Company",
+        "dc:description": "Company that own or develop the platform",
+        "datatype": "string"
+      },
+      {
+        "name": "last_validated",
+        "titles": "Last Validated",
+        "dc:description": "Timestamp of the last validation check in ISO 8601 format",
+        "datatype": "dateTime",
+        "required": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "@context": ["http://www.w3.org/ns/csvw", { "@language": "en" }],
+  "url": "einvoice_request_portal.csv",
+  "tableSchema": {
+    "columns": [
+      {
+        "name": "brand",
+        "titles": "Brand",
+        "dc:description": "The company or brand name",
+        "datatype": "string",
+        "required": true
+      },
+      {
+        "name": "industry",
+        "titles": "Industry",
+        "dc:description": "Sector or category of business",
+        "datatype": "string",
+        "required": true
+      },
+      {
+        "name": "portal",
+        "titles": "Portal",
+        "dc:description": "Website or online portal for e-invoice request",
+        "datatype": "anyURI"
+      },
+      {
+        "name": "platform",
+        "titles": "Platform",
+        "dc:description": "Platform, system, or service provider handling the portal",
+        "datatype": "string"
+      },
+      {
+        "name": "individual_buyer",
+        "titles": "Individual Buyer",
+        "dc:description": "Indicates if individual buyers are supported",
+        "datatype": "boolean",
+        "required": true
+      },
+      {
+        "name": "business_buyer",
+        "titles": "Business Buyer",
+        "dc:description": "Indicates if business buyers are supported",
+        "datatype": "boolean",
+        "required": true
+      },
+      {
+        "name": "from_qr_only",
+        "titles": "From QR Only",
+        "dc:description": "",
+        "datatype": "boolean",
+        "required": true
+      },
+      {
+        "name": "remark",
+        "titles": "Remark",
+        "dc:description": "Additional notes or comments",
+        "datatype": "string"
+      },
+      {
+        "name": "last_validated",
+        "titles": "Last Validated",
+        "dc:description": "Timestamp of the last validation check in ISO 8601 format",
+        "datatype": "dateTime",
+        "required": true
+      }
+    ]
+  }
+}
