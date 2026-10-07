@@ -1,6 +1,7 @@
 Brand,Industry,Portal,Platform,Individual Buyer,Business Buyer,From QR Only,Remark,Last Validated
 % Arabica,F&B,,,true,true,true,,2026-09-26T00:00:00Z
 99 Speedmart,Retail,https://99einvoice.com/,RGTech,true,true,false,,2026-09-26T00:00:00Z
+A&W,F&B,https://e-invoice.anwmalaysia.com.my/DynamicCode,RGTech,true,true,false,,2026-10-07T00:00:00Z
 Aeon,Retail,https://e-invoice.aeonsolutionscenter.com/iframes/e-invoice-external-requests/create?type=amy,,true,true,false,,2026-09-26T00:00:00Z
 Baskin Robbins,F&B,https://einvoice.baskinrobbins.onnet.my/einvoice,Odoo by Onnet,true,true,false,,2026-10-04T00:00:00Z
 Billion,Retail,https://billiongroup.invoice2e.my/documents/create,invoice2e,true,true,false,,2026-09-26T00:00:00Z
@@ -22,6 +23,7 @@ MR.DIY,Retail,,,true,true,true,Offline purchase,2026-09-26T00:00:00Z
 Mydin,Retail,https://einvoice.mydin.my/invoice,Xilnex,true,true,false,Need to include site number in front of invoice number,2026-09-26T00:00:00Z
 Oriental Kopi,F&B,,Zeoniq,true,true,true,,2026-09-26T00:00:00Z
 Pasaraya LYC,Retail,https://lyc.invoice2e.my/documents/create,invoice2e,true,true,false,,2026-09-26T00:00:00Z
+Popcorn Food Hall,F&B,https://einvoice.zeoniq.com/MY/X2BDH2A,Zeoniq,true,true,false,,2026-10-07T00:00:00Z
 Popular,Retail,https://einvoice.popular.com.my/popular/HQ,,true,true,false,,2026-09-26T00:00:00Z
 POS Malaysia,Utility,https://accounts.my.cleartax.com/v2?product=myinvoice&&return_path=Lz90aW49UXpRNE9UWXdNREF3TkRBJTNE,ClearTax,true,true,false,Must have account,2026-09-26T00:00:00Z
 San Shu Gong,F&B,,Autocount,true,true,true,,2026-09-26T00:00:00Z
