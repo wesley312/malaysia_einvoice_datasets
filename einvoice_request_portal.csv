@@ -32,4 +32,6 @@ The Coffee Bean & Tea Leaf,F&B,https://coffeebean.einvoiceportal.my/invoice,Xiln
 TMT Thundermatch,Retail,https://loyalty.tmt.my/page/E-Invoice,,true,true,false,,2026-09-26T00:00:00Z
 Unifi Store,Retail,https://e-invoice.tm.com.my/indv/index.html,,true,false,false,Goods only,2026-09-26T00:00:00Z
 Unifi Store,Retail,https://e-invoice.tm.com.my/comp/index.html,,false,true,false,Goods only,2026-09-26T00:00:00Z
+Verbena,F&B,https://einvoice.zeoniq.com/MY/M68C3RA,Zeoniq,true,true,false,,2026-10-16T00:00:00Z
 Watsons,Retail,https://e-invoice.watsons.com.my/,AgoraCloud E-Invoice,true,true,false,,2026-09-26T00:00:00Z
+Zus Coffee,F&B,,Feedme POS,true,true,true,,2026-10-16T00:00:00Z
